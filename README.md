@@ -27,6 +27,8 @@
 - **Data Input**: CSV, JSON, Cloud API exports
 
 ---
+output :
+<img width="1172" height="310" alt="Screenshot 2025-12-19 184334" src="https://github.com/user-attachments/assets/50e0f54d-2e2f-4161-b096-0ad486da3901" />
 
 ## 📂 Project Structure
 
