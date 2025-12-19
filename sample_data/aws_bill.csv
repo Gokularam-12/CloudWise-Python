@@ -1,0 +1,6 @@
+Service,ResourceID,HoursUsed,CPUUsage,Cost
+EC2,ec2-01,720,15,1200
+EC2,ec2-02,150,2,800
+S3,s3-bucket-01,1000,0,450
+Lambda,lambda-func-01,300,35,300
+EBS,ebs-volume-01,0,0,120
